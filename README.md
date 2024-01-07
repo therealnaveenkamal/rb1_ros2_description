@@ -2,9 +2,9 @@
 
 # RB-1 ROS2 Controller
 
-This project is a simple demonstration of Robotnik's RB-1 robot's controllers and various plugins. We will specifically explore the differential drive controller and elevator controller in this repo. 
+This project is a simple demonstration of Robotnik's RB-1 robot's controllers and various plugins. We will specifically explore the differential drive controller and elevator controller in this repo.
 
-![RB-1 Robot](https://github.com/therealnaveenkamal/rb1_ros2_description/assets/80611084/4c298251-a530-4987-bf99-a90dfcc11743)
+![RB-1 Robot](https://github.com/therealnaveenkamal/rb1_ros2_description/assets/80611084/7deeac87-7692-43be-908e-a12fc43ee2e2)
 
 
 ## Table of Contents
